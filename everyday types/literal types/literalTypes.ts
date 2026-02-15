@@ -40,3 +40,4 @@ function handleBinaryNumber(value: 1 | 0) {
 
 handleBinaryNumber(1);
 // handleBinaryNumber(8); will not work, because it accepts only 1 or 0
+
